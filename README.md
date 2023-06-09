@@ -1,4 +1,7 @@
 # Math_Notebooks
 Math Related Jupyter Notebooks
 
-Will add types of math Performed here om the readme section
+Types of Math displayed in the notebooks
+
+- Gradient Decent Calculations 
+- Regression Types 
